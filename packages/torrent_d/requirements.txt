@@ -2,3 +2,4 @@ lbry-libtorrent
 requests
 beautifulsoup4
 lxml
+requests[socks]
