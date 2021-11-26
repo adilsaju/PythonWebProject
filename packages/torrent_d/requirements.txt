@@ -1,0 +1,4 @@
+lbry-libtorrent
+requests
+beautifulsoup4
+lxml
